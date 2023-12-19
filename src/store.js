@@ -1,6 +1,6 @@
 import {writable} from "svelte/store"
 
-export const words_list = ['APPLE', 'CANDY', 'REACT', 'SWIFT', 'SVELTE', 'AZURE', 'CLOUD', 'WATER', 'EARTH', 'MUSIC', 'JAZZ', 'HAPPY', 'SMILE', 'QUICK', 'BROWN', 'JUMPS', 'LAZY'];
+export const words_list = ['APPLE', 'CANDY', 'REACT', 'SWIFT', 'SVELTE', 'AZURE', 'CLOUD', 'WATER', 'EARTH', 'MUSIC', 'HAPPY', 'SMILE', 'QUICK', 'BROWN', 'LUCKY', 'GOOSE', 'NOISE'];
 
 export function createGrid(){
     const grid = [];
